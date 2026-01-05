@@ -5,7 +5,7 @@ This project is developed as part of the AICT Lab Final Project for the 1st Seme
 It features an Online Shoe Store along with business calculations,
 documentation, and presentation files.
 # GROUP MEMBERS:
-- MUHAMMAD FAIZAN (2025-CS-194)
+- FAIZAN AHMED (2025-CS-194)
 - ABDULLAH WASIF (2025-CS-198)
 - MUHAMMAD SHOAIB (2025-CS-201)
 - AMAMA ISHAQ (2025-CS-209)
